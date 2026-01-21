@@ -5,6 +5,7 @@ This repository contains a curated set of data science notebooks demonstrating e
 The projects below highlight applied skills in data wrangling, feature engineering, time series analysis, and business analytics using real datasets.
 
 **NYC Airbnb Data Cleaning**
+
 Notebook: `notebooks/01_nyc_airbnb_data_cleaning.ipynb`
 
 This notebook demonstrates a production-style data cleaning workflow, including:
