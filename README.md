@@ -1,8 +1,10 @@
-# project_portfolio
+# Project Portfolio
 
 This repository contains a curated set of data science notebooks demonstrating end-to-end analytical workflows, from data cleaning and validation to exploratory analysis and insight generation. Each notebook is designed to be portfolio ready, emphasizing clarity, reproducibility, and real-world decision making relevance rather than exhaustive modeling.
 
 The projects below highlight applied skills in data wrangling, feature engineering, time series analysis, and business analytics using real datasets.
+
+## Notebooks
 
 **NYC Airbnb Data Cleaning**  
 Notebook:`notebooks/01_nyc_airbnb_data_cleaning.ipynb`
@@ -25,4 +27,9 @@ This notebook analyzes retail and warehouse inventory usage over time, focusing 
 - identification of top-moving items and seasonal trends  
 
 The emphasis is on practical EDA and decision-oriented insights for inventory and demand planning.
+
+## Author
+
+Graham Kesler O'Connor, PhD  
+Applied Mathematics / Data Science
 
