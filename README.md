@@ -17,13 +17,6 @@ This notebook demonstrates a production-style data cleaning workflow, including:
 
 The focus is on pipeline correctness and downstream readiness rather than full EDA.
 
-**Predicting High-Demand NYC Airbnb Listings (XGBoost)**  
-Notebook: `notebooks/xgboost_airbnb_demand.ipynb`
-
-Builds a gradient-boosted classification model to predict high-demand Airbnb listings using pricing, availability, review velocity, and spatial features.  
-Demonstrates feature engineering, business-oriented evaluation metrics, and model interpretability with SHAP.
-
-
 **Supply Usage Analysis**  
 Notebook: `notebooks/supply_usage_analysis.ipynb`
 
